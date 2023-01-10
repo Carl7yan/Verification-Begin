@@ -1,0 +1,45 @@
+18:34:53    16 -->                                                             [tcl] ucliGUI::connect -toolargs -ucligui -toolexe simv +v2k +notimingcheck +nospecify +vcs+flush+all -a compile.log -a run.log -pid 11726 -toolin /tmp/vcs_20221214103451_11725_carl..stdin -toolout /tmp/vcs_20221214103451_11725_carl..stdout  
+18:34:53    17 -->                                                                 [tcl] set ucliGUI::state
+18:34:53    18 -->                                                                     [tcl] set dveMisc::dve_log_file 1
+18:34:53    19 -->                                                                         [tcl] gui_update_simulator_buttons
+18:34:54    20 -->                                                                             [tcl] set ucliGUI::state
+18:34:54    21 -->                                                                                 [tcl] ucliCore::getToolPID
+18:34:54    22 -->                                                                                     [tcl] synopsys::env hasTB
+18:34:54    23 -->                                                                                         [tcl] trigger_hier_stack_context_switch 0
+18:34:54    24 -->                                                                                             [tcl] synopsys::xml set_array_limit <data limit="50" />
+18:34:54    25 --> ...  [tcl] synopsys::xml set_depth_limit <data limit="100" />
+18:34:54    26 --> ...      [tcl] synopsys::xml set_string_limit <data limit="1000" />
+18:34:54    27 --> ...          [tcl] synopsys::xml set_only_active_frame <data value="1" />
+18:34:54    28 --> ...              [tcl] synopsys::xml set_variable_frame_id <data value="1" />
+18:34:54    29 --> ...                  [tcl] synUtils::setDVEInitPhase 1
+18:34:54    30 --> ...                      [tcl] gui_get_env SIMSETUP::SIMVPD
+18:34:54    31 --> ...                          [tcl] synopsys::dump -type VPD -file /home/carl/work/projects/2small/4dma/dma_with_ral/inter.vpd -locking
+18:34:54    32 --> ...                              [tcl] synopsys::dump -autoflush on -fid VPD0
+18:34:54    33 --> ...                                  [tcl] set ::dve_fid VPD0
+18:34:54    34 --> ...                                      [tcl] synUtils::setDVEInitPhase 0
+18:34:54    35 --> ...                                          [tcl] ucliCore::getToolPID
+18:34:54    36 --> ...                                              [tcl] synUtils::sendTool -active _icl_setToolSocket /tmp/smlnpLbWZCr
+18:34:54    37 --> ...                                                  [tcl] synUtils::sendTool -active {_icl_start_rpc -version "O-2018.09-SP2_Full64" -sync_file /tmp/vcs_dve_rpc.carl.11726}
+18:34:54    38 --> ...                                                      [tcl] synUtils::sendTool -active {_icl_createSharedMemory /tmp/vcs_dve_general.carl.11726}
+18:34:54    39 --> ...                                                          [tcl] dveMisc::vbusExpand uvm_pkg
+18:34:54    40 --> ...                                                              [tcl] config endofsim noexit
+18:34:54    41 --> ...                                                                  [tcl] config onfail enable all
+18:34:54    42 --> ...                                                                      [tcl] config syscaddplainmembers
+18:34:54    43 --> ...                                                                          [tcl] config syscaddsourcenames
+18:34:54    44 --> ...                                                                              [tcl] config syscaddstructtypes
+18:34:54    45 --> ...                                                                                  [tcl] synopsys::listing -disable
+18:35:03    46 --> ...                                                                                      [tcl] synopsys::dump -add {tb.intf} -aggregates  -fid VPD0
+18:35:07    47 --> ...                                                                                          [tcl] synopsys::dump -add {tb.intf.DRIVER tb.intf.MONITOR } -aggregates  -fid VPD0
+18:35:07    48 --> ...                                                                                              [tcl] dveMisc::vbusExpand _vcs_unit__139579037
+18:35:09    49 --> ...                                                                                                  [tcl] synopsys::dump -add {_vcs_unit__139579037 } -aggregates  -fid VPD0
+18:41:21    50 --> ...  [tcl] if [catch {gui_sim_terminate}] {gui_sim_terminate -kill}
+18:41:21    51 --> ...      [tcl] synopsys::finish
+18:41:21    52 --> ...          [tcl] set ucliGUI::state
+18:41:21    53 --> ...              [tcl] gui_update_simulator_buttons
+18:41:21    54 --> ...                  [tcl] set ucliGUI::state
+18:41:21    55 --> ...                      [tcl] catch {senv activeDomain} dveMisc::result 
+18:41:21    56 --> ...                          [tcl] set dveMisc::result
+18:41:21    57 --> ...                              [tcl] gui_update_simulator_buttons
+18:41:21    58 --> ...                                  [tcl] catch {senv activeDomain} dveMisc::result 
+18:41:21    59 --> ...                                      [tcl] set dveMisc::result
+18:41:21    60 --> ...                                          [tcl] ucli_exit

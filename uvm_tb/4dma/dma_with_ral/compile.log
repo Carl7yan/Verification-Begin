@@ -1,0 +1,1 @@
+Command: /home/carl/work/projects/2small/4dma/dma_with_ral/./simv +v2k +notimingcheck +nospecify +vcs+flush+all -a compile.log -gui -a run.log -ucli

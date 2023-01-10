@@ -1,0 +1,84 @@
+global coverage_group 0 simpleadder_pkg::simpleadder_monitor::simpleadder_cg __coverage_simpleadder_monitor.simpleadder_cg unused_simpleadder_monitor_simpleadder_cg_loop_label simpleadder_pkg 0 1 0 0 0  ( 0 
+)
+ 1 1
+ 86 /home/icer/Desktop/fundamentals/verify/1simpleadder_one_monitor/simpleadder_monitor.sv
+ 7 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+1
+0
+ 6 ina_cp 8 0 0 0 0 74 simpleadder_monitor::simpleadder_pkg_simpleadder_monitor_simpleadder_cg_fn 74 simpleadder_monitor::simpleadder_pkg_simpleadder_monitor_simpleadder_cg_fn 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 2 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 6 inb_cp 9 0 0 0 0 76 simpleadder_monitor::simpleadder_pkg_simpleadder_monitor_simpleadder_cg_fn_0 76 simpleadder_monitor::simpleadder_pkg_simpleadder_monitor_simpleadder_cg_fn_0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 2 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 17 simpleadder_cg_cc 0 10 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group

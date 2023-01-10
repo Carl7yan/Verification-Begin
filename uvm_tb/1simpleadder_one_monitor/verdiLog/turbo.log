@@ -1,0 +1,3 @@
+Command Line: /opt/Synopsys/Verdi2018/verdi/Verdi_O-2018.09-SP2/platform/LINUXAMD64/bin/Novas +v2k -sv +incdir+@{UVM_HOME}/src /opt/uvm/uvm-1.2/src/uvm.sv simpleadder_agent.sv simpleadder_config.sv simpleadder_driver.sv simpleadder_env.sv simpleadder_if.sv simpleadder_monitor_after.sv simpleadder_monitor.sv simpleadder_pkg.sv simpleadder_scoreboard.sv simpleadder_sequencer.sv simpleadder_tb.sv simpleadder_test.sv simpleadder.v simple_transaction_3inputs.sv simv -ssf sa.fsdb -nologo
+uname(Linux ICer 3.10.0-1127.el7.x86_64 #1 SMP Tue Feb 18 16:39:12 EST 2020 x86_64)
+au time 34.368013 4.182492 3.873717 delta 322879488 322879488 total 747962368 747962368

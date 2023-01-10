@@ -1,0 +1,342 @@
+# Preference setting overrides
+gui_set_pref_value -category {Globals} -key {app_fixed_width_font} -value {Courier,14,-1,5,75,0,0,0,0,0}
+gui_create_pref_key -category {Globals} -key {load_detail_for_funcov} -value_type {bool} -value {false}
+gui_create_pref_key -category {coverageColors} -key {fillColor_10} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_11} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_12} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_13} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_14} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_15} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_16} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_17} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_18} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_19} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_20} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_21} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_22} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_23} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_24} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_25} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_26} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_27} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_28} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_29} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_30} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_31} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_32} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_33} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_34} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_35} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_36} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_37} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_38} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_39} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_40} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_41} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_42} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_43} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_44} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_45} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_46} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_47} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_48} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_49} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_6} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_7} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_8} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {fillColor_9} -value_type {string} -value {green4}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_10} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_11} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_12} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_13} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_14} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_15} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_16} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_17} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_18} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_19} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_20} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_21} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_22} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_23} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_24} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_25} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_26} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_27} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_28} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_29} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_30} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_31} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_32} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_33} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_34} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_35} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_36} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_37} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_38} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_39} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_40} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_41} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_42} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_43} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_44} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_45} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_46} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_47} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_48} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_49} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_6} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_7} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_8} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMax_9} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_10} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_11} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_12} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_13} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_14} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_15} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_16} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_17} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_18} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_19} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_20} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_21} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_22} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_23} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_24} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_25} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_26} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_27} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_28} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_29} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_30} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_31} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_32} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_33} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_34} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_35} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_36} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_37} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_38} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_39} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_40} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_41} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_42} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_43} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_44} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_45} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_46} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_47} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_48} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_49} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_6} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_7} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_8} -value_type {string} -value {100}
+gui_create_pref_key -category {coverageColors} -key {rangeMin_9} -value_type {string} -value {100}
+gui_create_pref_category -category {dlg_settings}
+gui_create_pref_key -category {dlg_settings} -key {tableWithImmediatePopup} -value_type {bool} -value {true}
+gui_create_pref_category -category {schem_obj_name}
+gui_create_pref_key -category {schem_obj_name} -key {show_cell_and_pin_with_symbol_name} -value_type {bool} -value {false}
+gui_create_pref_key -category {schem_pin_hc} -key {textExtFont} -value_type {string} -value {Helvetica,10,-1,5,50,0,0,0,0,0}
+gui_set_pref_value -category {waveCompare} -key {end_unit} -value {1s}
+gui_set_pref_value -category {waveCompare} -key {start_unit} -value {1s}
+
+# State setting overrides
+gui_state_default_create -off -ini
+gui_set_state_value -category Globals -key &File_toolbar -value true
+gui_set_state_value -category Globals -key BackTrace_toolbar -value true
+gui_set_state_value -category Globals -key recent_cov_databases -value /home/icer/Desktop/sv_codes/coverage/coverage.vdb
+gui_set_state_value -category Globals -key recent_databases -value {{gui_open_db -file vcdpluse.vpd} {gui_open_db -file vcdplus.vpd} {gui_open_db -file /home/icer/Desktop/projects/svtb_2011.12/solutions/Lab6/vcdplus.vpd -design V2} {gui_open_db -file vcdplus.vpd -design V1} {gui_open_db -file /home/icer/Desktop/projects/svtb_2011.12/solutions/lab1/vcdplus.vpd -design V1}}
+gui_set_state_value -category Globals -key recent_sessions -value {{gui_load_session -ignore_errors -file /home/icer/Desktop/projects/svtb_2011.12/solutions/lab1/session.vcdplus.vpd.tcl -ignore_errors} {gui_load_session -ignore_errors -file /home/icer/Desktop/projects/svtb_2011.12/solutions/lab1/session.vcdplus.vpd.tcl}}
+gui_set_state_value -category Layout -key child_console_size_x -value 1917
+gui_set_state_value -category Layout -key child_console_size_y -value 177
+gui_set_state_value -category Layout -key child_covdetail_docknewline -value false
+gui_set_state_value -category Layout -key child_covdetail_pos_x -value {-2}
+gui_set_state_value -category Layout -key child_covdetail_pos_y -value {-28}
+gui_set_state_value -category Layout -key child_covdetail_size_x -value 675
+gui_set_state_value -category Layout -key child_covdetail_size_y -value 435
+gui_set_state_value -category Layout -key child_coveragetable_docknewline -value false
+gui_set_state_value -category Layout -key child_coveragetable_pos_x -value {-2}
+gui_set_state_value -category Layout -key child_coveragetable_pos_y -value {-28}
+gui_set_state_value -category Layout -key child_coveragetable_size_x -value 675
+gui_set_state_value -category Layout -key child_coveragetable_size_y -value 435
+gui_set_state_value -category Layout -key child_data_coltype -value 10
+gui_set_state_value -category Layout -key child_data_colvalue -value 10
+gui_set_state_value -category Layout -key child_data_colvariable -value 62
+gui_set_state_value -category Layout -key child_data_size_x -value 105
+gui_set_state_value -category Layout -key child_data_size_y -value 500
+gui_set_state_value -category Layout -key child_driver_size_x -value 683
+gui_set_state_value -category Layout -key child_driver_size_y -value 179
+gui_set_state_value -category Layout -key child_hier_col3 -value {-1}
+gui_set_state_value -category Layout -key child_hier_colhier -value 288
+gui_set_state_value -category Layout -key child_hier_colpd -value 0
+gui_set_state_value -category Layout -key child_hier_coltype -value 118
+gui_set_state_value -category Layout -key child_hier_size_x -value 407
+gui_set_state_value -category Layout -key child_hier_size_y -value 500
+gui_set_state_value -category Layout -key child_hier_sort_order -value 1
+gui_set_state_value -category Layout -key child_schematic_docknewline -value false
+gui_set_state_value -category Layout -key child_schematic_pos_x -value {-2}
+gui_set_state_value -category Layout -key child_schematic_pos_y -value {-15}
+gui_set_state_value -category Layout -key child_schematic_size_x -value 572
+gui_set_state_value -category Layout -key child_schematic_size_y -value 526
+gui_set_state_value -category Layout -key child_source_docknewline -value false
+gui_set_state_value -category Layout -key child_source_pos_x -value {-2}
+gui_set_state_value -category Layout -key child_source_pos_y -value {-15}
+gui_set_state_value -category Layout -key child_source_size_x -value 1408
+gui_set_state_value -category Layout -key child_source_size_y -value 495
+gui_set_state_value -category Layout -key child_transaction_col_caller -value 76
+gui_set_state_value -category Layout -key child_transaction_col_expand -value 16
+gui_set_state_value -category Layout -key child_transaction_col_message -value 74
+gui_set_state_value -category Layout -key child_transaction_col_name -value 33
+gui_set_state_value -category Layout -key child_transaction_col_relation -value 53
+gui_set_state_value -category Layout -key child_transaction_col_scope -value 86
+gui_set_state_value -category Layout -key child_transaction_col_severity -value 72
+gui_set_state_value -category Layout -key child_transaction_col_target -value 43
+gui_set_state_value -category Layout -key child_transaction_col_time -value 78
+gui_set_state_value -category Layout -key child_transaction_col_type -value 36
+gui_set_state_value -category Layout -key child_transaction_size_x -value 1202
+gui_set_state_value -category Layout -key child_transaction_size_y -value 335
+gui_set_state_value -category Layout -key child_wave_colname -value 134
+gui_set_state_value -category Layout -key child_wave_colvalue -value 134
+gui_set_state_value -category Layout -key child_wave_left -value 273
+gui_set_state_value -category Layout -key child_wave_right -value 665
+gui_set_state_value -category Layout -key cov_main_pos_y -value 72
+gui_set_state_value -category Layout -key cov_main_size_x -value 980
+gui_set_state_value -category Layout -key cov_main_size_y -value 846
+gui_set_state_value -category Layout -key main_pos_x -value 1
+gui_set_state_value -category Layout -key main_pos_y -value 38
+gui_set_state_value -category Layout -key main_size_x -value 1918
+gui_set_state_value -category Layout -key main_size_y -value 814
+gui_set_state_value -category Layout -key stand_source_child_docknewline -value false
+gui_set_state_value -category Layout -key stand_source_child_pos_x -value {-2}
+gui_set_state_value -category Layout -key stand_source_child_pos_y -value {-15}
+gui_set_state_value -category Layout -key stand_source_child_size_x -value 1282
+gui_set_state_value -category Layout -key stand_source_child_size_y -value 328
+gui_set_state_value -category Layout -key stand_wave_child_docknewline -value false
+gui_set_state_value -category Layout -key stand_wave_child_pos_x -value {-2}
+gui_set_state_value -category Layout -key stand_wave_child_pos_y -value {-15}
+gui_set_state_value -category Layout -key stand_wave_child_size_x -value 948
+gui_set_state_value -category Layout -key stand_wave_child_size_y -value 631
+gui_set_state_value -category Layout -key stand_wave_top_pos_x -value 169
+gui_set_state_value -category Layout -key stand_wave_top_pos_y -value 89
+gui_set_state_value -category Layout -key stand_wave_top_size_x -value 1112
+gui_set_state_value -category Layout -key stand_wave_top_size_y -value 848
+gui_set_state_value -category Class -key showOVM -value false
+gui_set_state_value -category Class -key showObject -value false
+gui_set_state_value -category Class -key showRVM -value false
+gui_set_state_value -category Class -key showVMM -value false
+gui_create_state_key -category FindDialog -key m_pMatchCase -value_type bool -value true
+gui_create_state_key -category FindDialog -key m_pMatchWord -value_type bool -value false
+gui_create_state_key -category FindDialog -key m_pUseCombo -value_type string -value {}
+gui_create_state_key -category FindDialog -key m_pWrapAround -value_type bool -value true
+gui_create_state_key -category Widget_History -key Find|m_pFindFrame|m_pFindCombo -value_type string -value {m_inst {Counter mismatch} {Counter Mismatch} EMPTY 1}
+gui_create_state_key -category Widget_History -key TopLevel.1|qt_left_dock|DockWnd2|DLPane.1|pages|Member.1|hbox|textfilter -value_type string -value {*mic mic}
+gui_create_state_key -category Widget_History -key TopLevel.1|qt_top_dock|&Edit|FindCombo -value_type string -value {m_inst {Counter mismatch} {Counter Mismatch} EMPTY 1}
+gui_create_state_key -category Widget_History -key TopLevel.1|qt_top_dock|DockWnd3|Transaction.1|TxnStreamView|__TxnStreamListView|filtersbox|streamfilter -value_type string -value {*LOG *seqr}
+gui_create_state_key -category Widget_History -key TopLevel.2|qt_top_dock|&Edit|FindCombo -value_type string -value {{Counter mismatch} {Counter Mismatch} EMPTY 1 03}
+gui_create_state_key -category Widget_History -key {dlgSimSetup|m_setupTab|tab pages|SimTab|m_VPDCombo} -value_type string -value inter.vpd
+gui_create_state_key -category Widget_History -key {dlgSimSetup|m_setupTab|tab pages|SimTab|m_curDirCombo} -value_type string -value {/home/icer/Desktop/VCS_labs/lab3 /home/icer/Desktop/VCS_labs/lab1/partb /home/icer/Desktop/VCS_labs/lab1}
+gui_create_state_key -category Widget_History -key {dlgSimSetup|m_setupTab|tab pages|SimTab|m_exeCombo} -value_type string -value {simv partb/simv}
+gui_create_state_key -category Layout_CoverageTable_covtblFGroupsList -key names -value_type string -value {Group,    , ,  ,   ,Score,Covergroup,}
+gui_create_state_key -category Layout_CoverageTable_covtblFGroupsList -key orders -value_type string -value 4,0,1,2,3,5,6,
+gui_create_state_key -category Layout_CoverageTable_covtblFGroupsList -key widths -value_type string -value 220,0,25,0,0,125,125,
+gui_create_state_key -category Layout_CoverageTable_covtblInstancesList -key names -value_type string -value {Name,    , ,  ,   ,Score,Line,Toggle,FSM,Condition,Branch,}
+gui_create_state_key -category Layout_CoverageTable_covtblInstancesList -key orders -value_type string -value 4,0,1,2,3,5,6,7,8,9,10,
+gui_create_state_key -category Layout_CoverageTable_covtblInstancesList -key widths -value_type string -value 220,0,25,0,0,125,125,125,125,125,125,
+gui_create_state_key -category Layout_CoverageTable_covtblModulesList -key names -value_type string -value {Name,    , ,  ,   ,Score,Line,Toggle,FSM,Condition,Branch,}
+gui_create_state_key -category Layout_CoverageTable_covtblModulesList -key orders -value_type string -value 4,0,1,2,3,5,6,7,8,9,10,
+gui_create_state_key -category Layout_CoverageTable_covtblModulesList -key widths -value_type string -value 220,0,25,0,0,125,125,125,125,125,125,
+gui_create_state_key -category Layout_CovDetail_lnListView -key names -value_type string -value Category,Coverage,
+gui_create_state_key -category Layout_CovDetail_lnListView -key orders -value_type string -value 0,1,
+gui_create_state_key -category Layout_CovDetail_lnListView -key widths -value_type string -value 161,125,
+gui_create_state_key -category Layout_CovDetail_tglListView -key names -value_type string -value {Variable, ,  ,   ,Type,Coverage,Display,}
+gui_create_state_key -category Layout_CovDetail_tglListView -key orders -value_type string -value 3,0,1,2,4,5,6,
+gui_create_state_key -category Layout_CovDetail_tglListView -key widths -value_type string -value 140,25,0,0,50,125,140,
+gui_create_state_key -category Layout_CovDetail_tglDetailListView -key names -value_type string -value {Variable, ,  ,   ,0->1,1->0,}
+gui_create_state_key -category Layout_CovDetail_tglDetailListView -key orders -value_type string -value 3,0,1,2,4,5,
+gui_create_state_key -category Layout_CovDetail_tglDetailListView -key widths -value_type string -value 140,25,0,0,50,50,
+gui_create_state_key -category Layout_CovDetail_fsmListView -key names -value_type string -value {FSM, ,  ,   ,State,Transition,Sequence,}
+gui_create_state_key -category Layout_CovDetail_fsmListView -key orders -value_type string -value 3,0,1,2,5,4,6,
+gui_create_state_key -category Layout_CovDetail_fsmListView -key widths -value_type string -value 90,25,0,0,125,125,125,
+gui_create_state_key -category Layout_CovDetail_fsmlist -key names -value_type string -value {Coverage, ,  ,   ,Transition,}
+gui_create_state_key -category Layout_CovDetail_fsmlist -key orders -value_type string -value 3,0,1,2,4,
+gui_create_state_key -category Layout_CovDetail_fsmlist -key widths -value_type string -value 125,25,0,0,127,
+gui_create_state_key -category Layout_CovDetail_cndListView -key names -value_type string -value {Expression, ,  ,   ,ID,Coverage,Line No.,}
+gui_create_state_key -category Layout_CovDetail_cndListView -key orders -value_type string -value 3,0,1,2,4,5,6,
+gui_create_state_key -category Layout_CovDetail_cndListView -key widths -value_type string -value 320,25,0,0,0,125,106,
+gui_create_state_key -category Layout_CovDetail_brListView -key names -value_type string -value {Name, ,  ,   ,Coverage,Line No.,}
+gui_create_state_key -category Layout_CovDetail_brListView -key orders -value_type string -value 3,0,1,2,4,5,
+gui_create_state_key -category Layout_CovDetail_brListView -key widths -value_type string -value 100,25,0,0,125,106,
+gui_create_state_key -category Layout_CovDetail_designAssertListView -key names -value_type string -value {Assert Name,    , ,  ,   ,Attempts,Real Successes,Failures,Incompletes,Category,Severity,}
+gui_create_state_key -category Layout_CovDetail_designAssertListView -key orders -value_type string -value 4,0,1,2,3,5,6,7,8,9,10,
+gui_create_state_key -category Layout_CovDetail_designAssertListView -key widths -value_type string -value 180,0,25,0,0,116,187,103,149,117,107,
+gui_create_state_key -category Layout_CovDetail_codeMiddleSplitter -key value1 -value_type integer -value 10
+gui_create_state_key -category Layout_CovDetail_codeMiddleSplitter -key value2 -value_type integer -value 507
+gui_create_state_key -category Layout_CovDetail_cndSplitter -key value1 -value_type integer -value 180
+gui_create_state_key -category Layout_CovDetail_cndSplitter -key value2 -value_type integer -value 328
+gui_create_state_key -category Layout_CovDetail_covGrpInsListView -key names -value_type string -value {Cover Group Item,    , ,  ,   ,Definition,Score,Goal,Weight,At Least,Per Instance,Overlap,Auto Bin Max,Print Missing,Comment,}
+gui_create_state_key -category Layout_CovDetail_covGrpInsListView -key orders -value_type string -value 4,0,1,2,3,5,6,7,8,9,10,11,12,13,14,
+gui_create_state_key -category Layout_CovDetail_covGrpInsListView -key widths -value_type string -value 235,0,25,0,0,122,125,55,80,95,142,0,151,148,110,
+gui_create_state_key -category Layout_CovDetail_covGrpDefListView -key names -value_type string -value {Cover Group Item,    , ,  ,   ,Score,Goal,Weight,At Least,Per Instance,Overlap,Auto Bin Max,Print Missing,Comment,}
+gui_create_state_key -category Layout_CovDetail_covGrpDefListView -key orders -value_type string -value 4,0,1,2,3,5,6,7,8,9,10,11,12,13,
+gui_create_state_key -category Layout_CovDetail_covGrpDefListView -key widths -value_type string -value 235,0,25,0,0,125,55,80,95,142,0,151,148,110,
+gui_create_state_key -category Layout_CovDetail_m_CovGrpTable -key names -value_type string -value {Bin Name,    , ,  ,   ,Status,Cross,At Least,Size,Hit Count,}
+gui_create_state_key -category Layout_CovDetail_m_CovGrpTable -key orders -value_type string -value 5,0,1,2,3,4,6,7,8,9,
+gui_create_state_key -category Layout_CovDetail_m_CovGrpTable -key widths -value_type string -value 146,0,25,0,0,150,0,107,63,121,
+gui_create_state_key -category {Layout_CovDetail_assertion list} -key names -value_type string -value {Instance,    , ,  ,   ,Assert Name,Attempts,Real Successes,Failures,Incompletes,Category,Severity,}
+gui_create_state_key -category {Layout_CovDetail_assertion list} -key orders -value_type string -value 4,0,1,2,3,5,6,7,8,9,10,11,
+gui_create_state_key -category {Layout_CovDetail_assertion list} -key widths -value_type string -value 133,0,25,0,0,157,116,187,110,149,117,107,
+gui_create_state_key -category Layout_CovDetail_funMiddleSplitter -key value1 -value_type integer -value 32
+gui_create_state_key -category Layout_CovDetail_funMiddleSplitter -key value2 -value_type integer -value 52
+gui_create_state_key -category Layout_CovDetail_splitterWithPrefVal -key value1 -value_type integer -value 139
+gui_create_state_key -category Layout_CovDetail_splitterWithPrefVal -key value2 -value_type integer -value 275
+gui_create_state_key -category SearchDialog -key MatchCase -value_type bool -value false
+gui_create_state_key -category SearchDialog -key MatchWord -value_type bool -value true
+gui_create_state_key -category SearchDialog -key SearchMode -value_type string -value Wildcards
+gui_create_state_key -category SearchDialog -key UseCombo -value_type bool -value true
+gui_state_default_create -off
+
+# Begin command logging
+gui_set_pref_value -category {Globals} -key {smart_resize} -value {false}
+gui_set_pref_value -category {Globals} -key {smart_resize} -value {true}
+gui_sim_run Ucli -exe simv -args {-ucligui  +v2k +notimingcheck +nospecify +vcs+flush+all -a compile.log -a run.log} -dir .
+gui_list_expand -id  Hier.1   tb
+gui_list_select -id Hier.1 -current_item_name tb.vif -current_item_type Scope  -selected  { tb.vif   }
+gui_open_window Wave
+gui_list_add -id Wave.1 -from Hier.1 { tb.vif } -insertionbar
+gui_sim_continue  
+gui_marker_move -id  Wave.1 C1 871
+gui_zoom -window Wave.1 -full
+gui_wv_zoom_timerange -id  Wave.1 0 215
+gui_list_select -id Wave.1 -selected  { tb.vif.sig_clock   }
+gui_list_move  -id  Wave.1    -sid  Wave.1   -after vif {{tb.vif.sig_clock}}
+gui_list_select -id Wave.1 -selected  { tb.vif.sig_en_i   }
+gui_list_move  -id  Wave.1    -sid  Wave.1   -after tb.vif.sig_clock {{tb.vif.sig_en_i}} 
+gui_list_select -id Wave.1 -selected  { tb.vif.sig_en_o   }
+gui_list_move  -id  Wave.1    -sid  Wave.1   -after tb.vif.sig_inb {{tb.vif.sig_en_o}} 
+gui_list_select -id Wave.1 -selected  { tb.vif.sig_en_i   }
+gui_marker_move -id  Wave.1 C1 11
+gui_marker_select -id  Wave.1 { C1 }
+gui_marker_move -id  Wave.1 C1 10
+gui_marker_move -id  Wave.1 C1 11
+gui_marker_move -id  Wave.1 C1 10
+gui_marker_move -id  Wave.1 C1 11
+gui_marker_move -id  Wave.1 C1 61
+gui_marker_move -id  Wave.1 C1 30
+gui_marker_move -id  Wave.1 C1 40
+gui_marker_move -id  Wave.1 C1 61
+gui_marker_move -id  Wave.1 C1 61
+gui_marker_move -id  Wave.1 C1 71
+gui_marker_move -id  Wave.1 C1 30
+gui_marker_move -id  Wave.1 C1 40
+gui_marker_move -id  Wave.1 C1 90
+gui_marker_move -id  Wave.1 C1 100
+gui_marker_move -id  Wave.1 C1 150
+gui_marker_move -id  Wave.1 C1 210
+gui_list_select -id Wave.1 -selected  { tb.vif.sig_en_o   }
+gui_list_select -id Wave.1 -selected  { tb.vif.sig_out   }
+gui_marker_move -id  Wave.1 C1 11
+gui_marker_move -id  Wave.1 C1 10
+gui_marker_move -id  Wave.1 C1 30
+gui_marker_move -id  Wave.1 C1 40
+gui_close_window -window TopLevel.2

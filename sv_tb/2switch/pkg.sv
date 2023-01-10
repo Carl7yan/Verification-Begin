@@ -1,0 +1,9 @@
+package pkg;
+  `include "switch_item.sv"
+  `include "generator.sv"
+  `include "monitor.sv"
+  `include "driver.sv"
+  `include "scoreboard.sv"
+  `include "env.sv"
+  `include "test.sv"
+endpackage: pkg
