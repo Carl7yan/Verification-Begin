@@ -1,2 +1,0 @@
-design.sv
-testbench.sv
